@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
