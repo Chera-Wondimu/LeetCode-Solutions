@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
