@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Tree
 |  |
 | ------- |
