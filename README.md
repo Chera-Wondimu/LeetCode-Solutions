@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0137-single-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0330-patching-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
