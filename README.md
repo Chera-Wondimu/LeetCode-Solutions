@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
