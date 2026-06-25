@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
