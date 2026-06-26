@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3379-transformed-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -249,10 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Number Theory
 |  |
 | ------- |
