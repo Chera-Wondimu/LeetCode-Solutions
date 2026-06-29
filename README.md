@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0788-rotated-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
