@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 ## Stack
 |  |
 | ------- |
