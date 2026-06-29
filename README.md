@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 ## Hash Table
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
