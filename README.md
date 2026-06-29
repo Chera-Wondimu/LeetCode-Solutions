@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0788-rotated-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0788-rotated-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 ## Tree
 |  |
 | ------- |
