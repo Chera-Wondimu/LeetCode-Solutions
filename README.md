@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0392-is-subsequence) |
