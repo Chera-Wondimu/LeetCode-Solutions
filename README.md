@@ -352,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
