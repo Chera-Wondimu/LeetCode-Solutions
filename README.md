@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0065-valid-number) |
