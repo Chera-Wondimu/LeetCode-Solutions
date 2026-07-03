@@ -1,10 +1,12 @@
 class Solution:
     def dominantIndex(self, nums: List[int]) -> int:
-       largest = max(nums)
-       index = nums.index(largest)
-       for i in range(len(nums)):
-         if i != index and largest < 2 * nums[i]:
-             return -1
-       return index
-
+        arr = []
+        for i in range(len(nums)):
+            arr.append((nums[i], i))
+        arr.sort()
+        largest = arr[-1][0]
+        second = arr[-2][0]
+        if largest >= 2 * second:
+            return arr[-1][1]
+        return -1
 
