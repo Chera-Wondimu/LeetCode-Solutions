@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0628-maximum-product-of-three-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
