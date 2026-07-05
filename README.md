@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
