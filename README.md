@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -246,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -427,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
