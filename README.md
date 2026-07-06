@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1288-remove-covered-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
