@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -376,12 +378,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
