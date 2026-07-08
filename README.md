@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
