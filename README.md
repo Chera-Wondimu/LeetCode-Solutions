@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0327-count-of-range-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0400-nth-digit) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
