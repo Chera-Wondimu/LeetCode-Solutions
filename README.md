@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0461-hamming-distance) |
