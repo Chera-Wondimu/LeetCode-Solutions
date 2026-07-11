@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
