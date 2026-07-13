@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2553-separate-the-digits-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3379-transformed-array) |
 ## Dynamic Programming
 |  |
