@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Matrix
 |  |
