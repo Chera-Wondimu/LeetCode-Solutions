@@ -1,13 +1,13 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
-        count = {}
-        for num in nums:
-            count[num] = count.get(num, 0) + 1
+        nums.sort()
         duplicate = 0
-        missing = 0
-        for i in range(1, len(nums) + 1):
-            if count.get(i, 0) == 2:
-                duplicate = i
-            elif count.get(i, 0) == 0:
-                missing = i
+        missing = 1
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i - 1]:
+                duplicate = nums[i]
+            elif nums[i] > nums[i - 1] + 1:
+                missing = nums[i - 1] + 1
+        if nums[-1] != len(nums):
+            missing = len(nums)
         return [duplicate, missing]
