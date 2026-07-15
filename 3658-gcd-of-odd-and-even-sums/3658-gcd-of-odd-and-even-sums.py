@@ -1,6 +1,7 @@
-from math import gcd
 class Solution:
     def gcdOfOddEvenSums(self, n: int) -> int:
         odd = n * n
         even = n * (n + 1)
-        return gcd(odd, even)
+        while even:
+            odd, even = even, odd % even
+        return odd
