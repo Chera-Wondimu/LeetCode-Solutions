@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0932-beautiful-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
@@ -570,4 +572,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
