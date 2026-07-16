@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0932-beautiful-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0932-beautiful-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
