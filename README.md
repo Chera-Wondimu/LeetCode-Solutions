@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
+| [1323-maximum-69-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1323-maximum-69-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
