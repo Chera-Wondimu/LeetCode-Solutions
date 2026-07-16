@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
