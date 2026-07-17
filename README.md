@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3692-majority-frequency-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
+| [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3692-majority-frequency-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3379-transformed-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -479,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -507,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -588,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
