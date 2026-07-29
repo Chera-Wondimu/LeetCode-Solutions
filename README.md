@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
 |  |
