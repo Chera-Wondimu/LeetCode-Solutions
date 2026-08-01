@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0330-patching-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0174-dungeon-game) |
+| [0289-game-of-life](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1301-number-of-paths-with-max-score](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
