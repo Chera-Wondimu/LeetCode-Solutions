@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Combinatorics
 |  |
