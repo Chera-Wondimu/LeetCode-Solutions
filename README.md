@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
