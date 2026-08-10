@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
