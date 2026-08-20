@@ -1,7 +1,12 @@
-  Welcome to my repository for tracking Leetcode progress!This space is dedicated to mastering Data Structure and Algorithms(DSA) as I prepare for Software Engineering internships.
+ Welcome to my repository for tracking Leetcode progress!This space is dedicated to mastering Data Structure and Algorithms(DSA) as I prepare for Software Engineering internships.
   
 The solutions are in Python and JavaScript , and automatically synced from Leetcode using  [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
+
+ # 🎯 Repository Goals
+  🚀 Interview Prep:Mastering core algorithmic patterns to ace technical screens.
+  📈 Consistency: Solving problems daily to build strong debugging instincts.
+  ⚡ Efficiency: Focusing on Writing code with optimal time and space complexity.
 # LeetCode Topics
 ## Math
 |  |
