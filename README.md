@@ -4,9 +4,9 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 <!---LeetCode Topics Start-->
 
  # 🎯 Repository Goals
- . 🚀 Interview Prep:Mastering core algorithmic patterns to ace technical screens.
- . 📈 Consistency: Solving problems daily to build strong debugging instincts.
- . ⚡ Efficiency: Focusing on Writing code with optimal time and space complexity.
+ #. 🚀 Interview Prep:Mastering core algorithmic patterns to ace technical screens.
+ #. 📈 Consistency: Solving problems daily to build strong debugging instincts.
+ #. ⚡ Efficiency: Focusing on Writing code with optimal time and space complexity.
 # LeetCode Topics
 ## Math
 |  |
