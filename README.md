@@ -1,4 +1,6 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+  Welcome to my repository for tracking Leetcode progress!This space is dedicated to mastering Data Structure and Algorithms(DSA) as I prepare for Software Engineering internships.
+  
+The solutions are in Python and JavaScript , and automatically synced from Leetcode using  [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
