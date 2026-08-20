@@ -2,11 +2,6 @@
   
 The solutions are in Python and JavaScript , and automatically synced from Leetcode using  [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
-
- # 🎯 Repository Goals
- # 🚀 Interview Prep:Mastering core algorithmic patterns to ace technical screens.
- # 📈 Consistency: Solving problems daily to build strong debugging instincts.
- # ⚡ Efficiency: Focusing on Writing code with optimal time and space complexity.
 # LeetCode Topics
 ## Math
 |  |
@@ -67,6 +62,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0033-search-in-rotated-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0327-count-of-range-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -151,6 +147,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0151-reverse-words-in-a-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -263,6 +260,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0179-largest-number) |
