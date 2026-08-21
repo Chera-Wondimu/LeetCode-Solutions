@@ -63,6 +63,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0035-search-insert-position](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0327-count-of-range-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -267,6 +268,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0189-rotate-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -586,6 +588,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -667,6 +670,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
