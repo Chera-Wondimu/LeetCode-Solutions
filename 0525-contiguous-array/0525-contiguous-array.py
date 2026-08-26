@@ -1,17 +1,16 @@
 class Solution:
-    def findMaxLength(self, nums):
-        prefix_index = {0: -1}  
-        prefix_sum = 0
-        max_len = 0
-        for i, num in enumerate(nums):
-            if num == 1:
-                prefix_sum += 1
+    def findMaxLength(self, nums: List[int]) -> int:
+        prefix = 0
+        ans = 0
+        first = {0: -1}
+        for i, x in enumerate(nums):
+            if x == 0:
+                prefix -= 1
             else:
-                prefix_sum -= 1
-            if prefix_sum in prefix_index:
-                max_len = max(max_len, i - prefix_index[prefix_sum])
+                prefix += 1
+            if prefix in first:
+                ans = max(ans, i - first[prefix])
             else:
-                prefix_index[prefix_sum] = i
-        return max_len
-
+                first[prefix] = i
+        return ans
         
