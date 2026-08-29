@@ -143,6 +143,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -247,6 +248,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -579,6 +581,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0330-patching-array) |
