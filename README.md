@@ -180,6 +180,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0008-string-to-integer-atoi](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0038-count-and-say) |
@@ -568,6 +569,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -769,4 +771,8 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
