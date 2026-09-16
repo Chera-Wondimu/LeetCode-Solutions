@@ -88,6 +88,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0003-longest-substring-without-repeating-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0127-word-ladder) |
@@ -266,6 +267,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0033-search-in-rotated-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -676,6 +678,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0289-game-of-life) |
