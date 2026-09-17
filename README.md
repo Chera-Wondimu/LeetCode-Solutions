@@ -77,6 +77,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0713-subarray-product-less-than-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -342,6 +343,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0932-beautiful-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
