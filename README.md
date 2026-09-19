@@ -119,6 +119,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1054-distant-barcodes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1054-distant-barcodes) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -249,6 +250,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0387-first-unique-character-in-a-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [1054-distant-barcodes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1054-distant-barcodes) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -347,6 +349,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0989-add-to-array-form-of-integer](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1054-distant-barcodes) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -430,6 +433,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1054-distant-barcodes) |
 | [1200-minimum-absolute-difference](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -451,6 +455,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0506-relative-ranks](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1054-distant-barcodes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1054-distant-barcodes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -617,6 +622,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0409-longest-palindrome](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1054-distant-barcodes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1054-distant-barcodes) |
 | [1323-maximum-69-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
