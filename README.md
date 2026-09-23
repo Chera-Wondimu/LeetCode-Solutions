@@ -196,6 +196,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0043-multiply-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0127-word-ladder) |
@@ -490,6 +491,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0005-longest-palindromic-substring](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0120-triangle) |
