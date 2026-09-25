@@ -80,6 +80,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0888-fair-candy-swap](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -373,6 +374,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1929-concatenation-of-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -443,6 +445,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
