@@ -279,6 +279,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0039-combination-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -574,6 +575,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0022-generate-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
