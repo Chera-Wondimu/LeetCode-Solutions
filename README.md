@@ -180,6 +180,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0541-reverse-string-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -230,6 +231,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0692-top-k-frequent-words](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -347,6 +349,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0740-delete-and-earn](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
