@@ -183,6 +183,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0821-shortest-distance-to-a-character](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -361,6 +362,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1054-distant-barcodes) |
+| [1089-duplicate-zeros](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
