@@ -233,6 +233,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0796-rotate-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -620,6 +621,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0402-remove-k-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
@@ -827,5 +829,6 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
