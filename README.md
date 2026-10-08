@@ -68,6 +68,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0162-find-peak-element](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -172,6 +173,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0189-rotate-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -316,6 +318,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0238-product-of-array-except-self](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -607,6 +610,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0191-number-of-1-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0401-binary-watch) |
@@ -814,6 +818,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Knapsack Problem
 |  |
@@ -835,4 +840,8 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0856-score-of-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
