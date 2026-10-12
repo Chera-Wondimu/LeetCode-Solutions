@@ -35,6 +35,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0728-self-dividing-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
+| [0908-smallest-range-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0932-beautiful-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -360,6 +361,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0888-fair-candy-swap](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
