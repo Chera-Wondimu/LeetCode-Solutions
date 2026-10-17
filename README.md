@@ -10,6 +10,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0009-palindrome-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -293,6 +294,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0040-combination-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -730,6 +732,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0289-game-of-life) |
