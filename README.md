@@ -318,6 +318,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0179-largest-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -580,6 +581,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0111-minimum-depth-of-binary-tree](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0565-array-nesting](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0565-array-nesting) |
 | [0733-flood-fill](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -591,6 +593,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0111-minimum-depth-of-binary-tree](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -738,6 +741,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0048-rotate-image](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -756,6 +760,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
