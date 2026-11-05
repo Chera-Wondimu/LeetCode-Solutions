@@ -888,4 +888,12 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
