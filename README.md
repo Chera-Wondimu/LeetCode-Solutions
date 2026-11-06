@@ -50,6 +50,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1406-stone-game-iii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2469-convert-the-temperature](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -252,6 +253,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1859-sorting-the-sentence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -792,6 +794,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0713-subarray-product-less-than-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
