@@ -7,8 +7,8 @@
 #     def mergeTwoLists(self, list1: ListNode | None, list2: ListNode | None) -> ListNode | None:
 class Solution:
     def mergeTwoLists(self, list1, list2):
-        dummy = ListNode(0)
-        current = dummy
+        ans = ListNode(0)
+        current = ans
         while list1 and list2:
             if list1.val <= list2.val:
                 current.next = list1
@@ -22,5 +22,5 @@ class Solution:
         else:
             current.next = list2
 
-        return dummy.next
+        return ans.next
         
