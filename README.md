@@ -137,6 +137,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -283,6 +284,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
+| [2248-intersection-of-multiple-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -414,6 +416,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2553-separate-the-digits-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -495,6 +498,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1859-sorting-the-sentence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
