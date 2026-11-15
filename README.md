@@ -48,6 +48,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -405,6 +406,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -581,6 +583,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1025-divisor-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
@@ -724,6 +727,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0560-subarray-sum-equals-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
