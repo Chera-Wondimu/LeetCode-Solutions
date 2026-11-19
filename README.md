@@ -425,6 +425,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2553-separate-the-digits-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -509,6 +510,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [2248-intersection-of-multiple-arrays](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -713,6 +715,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1054-distant-barcodes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1054-distant-barcodes) |
 | [1323-maximum-69-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
