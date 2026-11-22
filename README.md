@@ -260,6 +260,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1859-sorting-the-sentence](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
