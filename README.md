@@ -46,6 +46,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1399-count-largest-group](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -403,6 +404,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -741,6 +743,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0525-contiguous-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -894,6 +897,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -939,4 +943,8 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
