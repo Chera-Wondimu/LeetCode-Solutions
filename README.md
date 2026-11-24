@@ -58,6 +58,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -447,6 +448,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3379-transformed-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -783,6 +785,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [0258-add-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -793,6 +796,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1291-sequential-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -837,6 +841,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [2269-find-the-k-beauty-of-a-number](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Database
 |  |
 | ------- |
