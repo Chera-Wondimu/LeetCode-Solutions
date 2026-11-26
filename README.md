@@ -58,6 +58,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -564,6 +565,7 @@ The solutions are in Python and JavaScript , and automatically synced from Leetc
 | [1929-concatenation-of-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/cherawondimu17-pixel/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
